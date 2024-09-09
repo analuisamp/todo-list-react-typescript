@@ -21,15 +21,15 @@ Este é um projeto simples de **To Do List** desenvolvido com **React** e **Type
    ```bash
    git clone https://github.com/seu-usuario/todo-list-react-typescript.git
    ```
-2.**Navegue até o diretório do projeto**:
+2. **Navegue até o diretório do projeto**:
   ```bash
    cd todo-list-react-typescript
    ```
-3.**Instale as dependências**:
+3. **Instale as dependências**:
   ```bash
    npm install
    ```
-4;**Inicie o servidor de desenvolvimento:**:
+4. **Inicie o servidor de desenvolvimento:**:
   ```bash
    npm start
    ```
